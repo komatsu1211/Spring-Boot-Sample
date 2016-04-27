@@ -2,7 +2,7 @@ package sample.service;
 
 import org.springframework.stereotype.Service;
 
-@Service
+@Service 
 public class HelloService {
 
 	public String hello() {
